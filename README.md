@@ -5,6 +5,8 @@
 3. On a VM on your local machine, write a script that when ran will install Amazon CLI
 4. Build a VM from your VM in Amazon
 5. Install Docker on the VM
+
+   
 *Pipeline: Push the code to the GitHub repository, trigger GitHub Actions, and ensure the action runs ShellCheck.
 Once you’re done, delete the entire project and do it again. 
 
