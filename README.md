@@ -9,8 +9,8 @@ Install Docker on the VM
 Once you’re done, delete the entire project and do it again. 
 
 The point of doing all of this and deleting it is to gain practical experience with several key concepts and tools in DevOps. 
-_
-Here's the point of each task:_
+
+_Here's the point of each task:_
 
 Create a VM (including a script to delete the VM):
 Purpose: This task teaches you how to manage virtual machines (VMs), which are fundamental components in cloud computing and infrastructure management. Writing scripts for creating and deleting VMs helps automate infrastructure provisioning and teardown, making it easier to manage resources efficiently.
