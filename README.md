@@ -22,18 +22,26 @@ _Here's the point of each task:_
 Purpose: This task teaches you how to manage virtual machines (VMs), which are fundamental components in cloud computing and infrastructure management. Writing scripts for creating and deleting VMs helps automate infrastructure provisioning and teardown, making it easier to manage resources efficiently.
 
 
+
+
 -Write a script to install Jenkins on a VM on your local machine:
 
 Purpose: Jenkins is a popular open-source automation server used for continuous integration and continuous delivery (CI/CD). By scripting the installation of Jenkins, you learn how to automate the setup of CI/CD pipelines, which is crucial for modern software development and deployment practices.
+
+
 
 -Write a script to install the Amazon CLI on a VM on your local machine:
 
 Purpose: The AWS Command Line Interface (CLI) is a tool that allows you to interact with Amazon Web Services from the command line. Installing it on a VM via a script helps you understand how to automate the setup of tools needed for managing cloud resources, enabling more efficient and consistent configurations.
 
 
+
+
 -Build a VM from your VM in Amazon:
 
 Purpose: This task involves creating a new VM instance in the cloud from an existing VM. It helps you understand how to use infrastructure as code (IaC) principles to replicate environments, which is essential for scaling applications and ensuring consistency across different environments (e.g., development, testing, production).
+
+
 
 
 -Install Docker on the VM:
