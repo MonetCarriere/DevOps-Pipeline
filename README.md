@@ -57,8 +57,7 @@ These tasks are designed to help develop skills in automating infrastructure set
 
 ------------------------------------------------------------------
 
-[Project-Illustration (2).pdf](https://github.com/user-attachments/files/16570265/Project-Illustration.2.pdf)
-
+[Project-Illustration .pdf](https://github.com/user-attachments/files/16570271/Project-Illustration.pdf)
 
 
 
