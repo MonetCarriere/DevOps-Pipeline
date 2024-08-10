@@ -42,5 +42,6 @@ Purpose: Docker is a platform for developing, shipping, and running applications
 
 
 
-
-**These tasks are designed to help develop skills in automating infrastructure setup, managing cloud resources, and using containerization tools. All of which are essential competencies in DevOps. **
+------------------------------------------------------------------
+**
+These tasks are designed to help develop skills in automating infrastructure setup, managing cloud resources, and using containerization tools. All of which are essential competencies in DevOps.** 
