@@ -1,10 +1,10 @@
 **Project Instructions/Details**
 
-Create a VM (make sure you also include a script to delete the VM)
-On a VM on your local machine, write a script that when ran will install Jenkins.
-On a VM on your local machine, write a script that when ran will install Amazon CLI
-Build a VM from your VM in Amazon
-Install Docker on the VM
+1. Create a VM (make sure you also include a script to delete the VM)
+2. On a VM on your local machine, write a script that when ran will install Jenkins.
+3. On a VM on your local machine, write a script that when ran will install Amazon CLI
+4. Build a VM from your VM in Amazon
+5. Install Docker on the VM
 *Pipeline: Push the code to the GitHub repository, trigger GitHub Actions, and ensure the action runs ShellCheck.
 Once you’re done, delete the entire project and do it again. 
 
